@@ -48,6 +48,8 @@ Use case:
 -	The system marks the attendance
 
 ### Sequence Diagram for Use Case #3
+![image](https://user-images.githubusercontent.com/77869823/192677263-1370501f-5e52-4998-bc98-013e2be999ab.png)
+
 3.	User story:
 As a professor, I want to have real time access of the attendance and adjust anything if needed and get report of students’ attendance.
 Use case: 
