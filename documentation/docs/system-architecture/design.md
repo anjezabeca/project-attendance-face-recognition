@@ -48,6 +48,8 @@ Use case:
 -	The system marks the attendance
 
 ### Sequence Diagram for Use Case #3
+![image](https://user-images.githubusercontent.com/77869823/192676903-55b6a1b9-454a-45d1-9016-98b5b0685a7b.png)
+
 3.	User story:
 As a professor, I want to have real time access of the attendance and adjust anything if needed and get report of students’ attendance.
 Use case: 
@@ -57,6 +59,7 @@ Use case:
 -	Then they select the specific class to view the report
 -	Once selected, the report can be seen
 -	If they want to make any adjustments, they can click on ‘Record manually’ to make changes
+
 
 ### Sequence Diagram for Use Case #4
 ![image](https://user-images.githubusercontent.com/17518043/192659155-39a491aa-2339-4616-b64e-af07909343e4.png)
